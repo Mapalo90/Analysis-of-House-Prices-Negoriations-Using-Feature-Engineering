@@ -1,2 +1,2 @@
-# Analysis-of-House-Prices-Negoriations-Using-Feature-Engineering
+# Analysis-of-House-Prices-Negotiations-Using-Feature-Engineering
 When buying a house, buyers look at various factors other than the height of the basement ceiling or the proximity to an east-west railroad. These various factors have been given in a dataset comprising of 79 explanatory variables. This dataset describes every aspect of residential homes in Ames, Iowa. From this dataset, main factors influencing the negotiation of prices of house in Ames, Iowa will be extracted using feature engineering
